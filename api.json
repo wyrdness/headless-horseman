@@ -1,0 +1,292 @@
+{
+  "category": "GHOST/URBAN_LEGEND",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/headless-horseman",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "headless-horseman",
+    "name": "Headless Horseman",
+    "aliases": [
+      {
+        "name": "Galloping Hessian",
+        "region": "Sleepy Hollow, New York"
+      },
+      {
+        "name": "Headless Trooper",
+        "region": "United States"
+      }
+    ],
+    "category": "GHOST/URBAN_LEGEND",
+    "subcategory": "Spectral Entity",
+    "tags": [
+      "ghost",
+      "urban-legend",
+      "headless",
+      "horseman",
+      "american-folklore",
+      "revolutionary-war",
+      "literary",
+      "sleepy-hollow"
+    ],
+    "status": "literary_urban_legend",
+    "description": {
+      "summary": "American folklore ghost of a headless soldier who rides a black horse through Sleepy Hollow, seeking his lost head. Made iconic by Washington Irving's 1820 story 'The Legend of Sleepy Hollow.'",
+      "full": "The Headless Horseman is one of America's most iconic ghost stories, popularized by Washington Irving's 1820 tale 'The Legend of Sleepy Hollow.' The character is described as a Hessian soldier who lost his head to a cannonball during the Revolutionary War and now haunts the area around Sleepy Hollow (Tarrytown), New York. The ghost rides a black horse at night, particularly near a covered bridge, and throws either a pumpkin or his severed head at victims. While inspired by European folklore, particularly the Irish Dullahan, Irving's version became the definitive American ghost legend, symbolizing Revolutionary War trauma and the adaptation of immigrant folklore to the New World."
+    },
+    "etymology": {
+      "origin": "Named for the headless state of the ghostly rider",
+      "meaning": "A horseman without a head",
+      "first_use": "1820 (Washington Irving's story)"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "GHOST/URBAN_LEGEND",
+      "type": "Spectral Entity",
+      "subtype": "Revenant",
+      "variant": "American Literary"
+    },
+    "related_phenomena": [
+      {
+        "id": "dullahan",
+        "name": "Dullahan",
+        "relationship": "inspiration",
+        "description": "Irish headless rider, likely source of the American legend"
+      },
+      {
+        "id": "wild-hunt",
+        "name": "Wild Hunt",
+        "relationship": "similar",
+        "description": "European spectral horsemen folklore"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "appearance": "Headless figure dressed in military uniform (Hessian soldier), riding a black horse",
+      "features": [
+        {
+          "feature": "Missing head",
+          "description": "Beheaded by cannonball, carries head or pumpkin",
+          "frequency": "always"
+        },
+        {
+          "feature": "Military uniform",
+          "description": "Hessian soldier attire from Revolutionary War",
+          "frequency": "common"
+        },
+        {
+          "feature": "Black horse",
+          "description": "Dark, spectral steed",
+          "frequency": "always"
+        }
+      ],
+      "morphology": "Spectral human figure, headless, mounted on horseback"
+    },
+    "abilities": [
+      {
+        "ability": "Head throwing",
+        "description": "Throws severed head or pumpkin at victims",
+        "frequency": "common",
+        "evidence_level": "literary"
+      },
+      {
+        "ability": "Spectral riding",
+        "description": "Gallops through night at supernatural speed",
+        "frequency": "always",
+        "evidence_level": "literary"
+      },
+      {
+        "ability": "Bridge restriction",
+        "description": "Cannot cross covered bridge in some versions",
+        "frequency": "occasional",
+        "evidence_level": "literary"
+      }
+    ],
+    "behavior": {
+      "activity_period": "nocturnal",
+      "disposition": "hostile",
+      "habitat_preference": [
+        "roads near Sleepy Hollow",
+        "covered bridge",
+        "graveyard",
+        "wooded areas"
+      ],
+      "patterns": [
+        "Seeks missing head",
+        "Pursues travelers at night",
+        "Active near Revolutionary War sites"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Primarily associated with Sleepy Hollow (Tarrytown), New York, and surrounding Hudson Valley region",
+      "continents": ["North America"],
+      "countries": ["United States"],
+      "regions": [
+        "Sleepy Hollow, New York",
+        "Hudson Valley",
+        "Tarrytown"
+      ]
+    },
+    "hotspots": [
+      {
+        "name": "Sleepy Hollow Cemetery",
+        "location": {
+          "description": "Historic cemetery in Sleepy Hollow",
+          "country": "United States",
+          "region": "New York",
+          "locality": "Sleepy Hollow",
+          "coordinates": {
+            "latitude": 41.0948,
+            "longitude": -73.8618
+          }
+        },
+        "notes": "Primary setting of Irving's tale; actual burial site of Washington Irving"
+      },
+      {
+        "name": "Headless Horseman Bridge",
+        "location": {
+          "description": "Historic covered bridge location",
+          "country": "United States",
+          "region": "New York",
+          "locality": "Sleepy Hollow"
+        },
+        "notes": "Key location in Irving's story where Ichabod Crane encounters the Horseman"
+      }
+    ],
+    "temporal": {
+      "first_recorded": {
+        "date": "1820",
+        "circa": false,
+        "source": "Washington Irving's 'The Legend of Sleepy Hollow'"
+      },
+      "historical_basis": "Hessian mercenaries fought in Hudson Valley during Revolutionary War; burials documented in area"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Combines European headless rider folklore (particularly Irish Dullahan) with American Revolutionary War history and German immigrant traditions",
+      "earliest_accounts": "Washington Irving's 1820 short story, though inspired by older European folklore",
+      "folklore_connections": "Irish Dullahan, Germanic headless rider legends, European Wild Hunt traditions"
+    },
+    "timeline": [
+      {
+        "date": "1776-1783",
+        "event": "American Revolutionary War",
+        "significance": "Historical basis - Hessian soldiers fought and died in Hudson Valley",
+        "source": "Historical records"
+      },
+      {
+        "date": "1820",
+        "event": "Publication of 'The Legend of Sleepy Hollow'",
+        "significance": "Washington Irving's story creates definitive American version",
+        "source": "Irving, W. (1820). The Sketch Book of Geoffrey Crayon"
+      },
+      {
+        "date": "1949",
+        "event": "Disney adaptation",
+        "significance": "Animated film brings legend to wider audience",
+        "source": "The Adventures of Ichabod and Mr. Toad"
+      },
+      {
+        "date": "1999",
+        "event": "Tim Burton film",
+        "significance": "Major Hollywood adaptation renews cultural interest",
+        "source": "Sleepy Hollow (film)"
+      },
+      {
+        "date": "2013-2017",
+        "event": "TV series 'Sleepy Hollow'",
+        "significance": "Modern reimagining as supernatural procedural",
+        "source": "Sleepy Hollow (TV series)"
+      }
+    ],
+    "modern_era": "The Headless Horseman remains central to American Halloween traditions and has inspired countless adaptations in film, television, and literature. Sleepy Hollow celebrates the legend annually with festivals and tourism."
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "American ghost story tradition",
+        "Revolutionary War folklore",
+        "Hudson Valley regional legends"
+      ],
+      "stories": [
+        "Ichabod Crane's encounter",
+        "Origin as Hessian soldier"
+      ],
+      "beliefs": "Literary creation that became embedded in American folklore; represents early American literary identity"
+    },
+    "popular_culture": {
+      "literature": [
+        "Irving, W. (1820). 'The Legend of Sleepy Hollow'",
+        "Numerous adaptations and retellings"
+      ],
+      "film_tv": [
+        "The Adventures of Ichabod and Mr. Toad (Disney, 1949)",
+        "Sleepy Hollow (Tim Burton, 1999)",
+        "Sleepy Hollow (TV series, 2013-2017)"
+      ],
+      "other": [
+        "Halloween costume icon",
+        "Sleepy Hollow tourism industry",
+        "Annual Sleepy Hollow Halloween celebrations"
+      ]
+    }
+  },
+
+  "theories": {
+    "literary": [
+      {
+        "name": "Immigrant folklore adaptation",
+        "description": "Irving adapted European (particularly Irish and German) folklore to American setting",
+        "evidence_cited": ["Irish Dullahan parallels", "German immigrant traditions", "European headless rider legends"]
+      },
+      {
+        "name": "Revolutionary War trauma symbolism",
+        "description": "Represents lingering trauma and fear from Revolutionary War",
+        "evidence_cited": ["Hessian soldier character", "War setting", "Hudson Valley battlegrounds"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Pure fiction",
+        "description": "Entirely literary creation with no basis in local legend prior to Irving",
+        "evidence_cited": ["No documented pre-1820 local stories", "Irving's known creative process"]
+      }
+    ]
+  },
+
+  "sources": [
+    {
+      "id": "irving-1820",
+      "type": "book",
+      "title": "The Legend of Sleepy Hollow",
+      "authors": ["Washington Irving"],
+      "publication": "The Sketch Book of Geoffrey Crayon, Gent.",
+      "date": "1820"
+    }
+  ]
+}
